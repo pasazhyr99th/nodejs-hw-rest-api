@@ -1,3 +1,7 @@
+Q45vxzwE74NqiGB5
+
+mongodb+srv://popyk:Q45vxzwE74NqiGB5@main-cluster.5xeucop.mongodb.net/db-contacts?retryWrites=true&w=majority
+
 ## GoIT Node.js Course Template Homework
 
 Виконайте форк цього репозиторію для виконання домашніх завдань (2-6)
